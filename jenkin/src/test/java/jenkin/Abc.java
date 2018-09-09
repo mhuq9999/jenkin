@@ -6,6 +6,7 @@ public class Abc {
 	@Test
 	public void jenkin() {
 		System.out.println("hello jenkins");
+		System.out.println("hello ");
 		
 	}
 
